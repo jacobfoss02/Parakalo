@@ -74,7 +74,7 @@ Nå som vi har Node.js installert, kan vi sette i gang!
      ```
    - Initier Git i prosjektet.
      ```bash
-     git init
+     git init heo hie hjie
      ```
    - Lag en commit med alle filene i prosjektutgangspunktet.
      ```bash
